@@ -1,0 +1,1 @@
+Pro03 is just to check how "git init" works
